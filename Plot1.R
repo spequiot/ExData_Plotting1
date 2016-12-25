@@ -1,4 +1,5 @@
 ## This script plots an histogram of global Active Power for 01/02/2007 and 02/02/2007
+## data is read directly form household_power_consumption.zip in the working directory
 ## Plot is saved in plot1.png
 
 

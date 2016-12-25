@@ -1,4 +1,5 @@
 ## This script plots the sub meterings 1,2 and 3 for 01/02/2007 and 02/02/2007
+## data is read directly form household_power_consumption.zip in the working directory
 ## Plot is saved in plot3.png
 
 

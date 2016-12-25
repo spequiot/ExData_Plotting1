@@ -3,6 +3,7 @@
 ##     plot-2 : Voltage
 ##     plot-1 : sub metering 1,2 & 3
 ##     plot-1 : Global reactive power
+## data is read directly form household_power_consumption.zip in the working directory
 ## Plot is saved in plot4.png
 
 
