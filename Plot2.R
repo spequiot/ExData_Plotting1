@@ -3,6 +3,7 @@
 
 
 # Read data
+unzip("household_power_consumption.zip")
 data<-read.csv("household_power_consumption.txt",sep = ";",header = TRUE,na.strings = "?")
 
 #Filter and shape
